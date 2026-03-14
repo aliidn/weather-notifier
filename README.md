@@ -16,4 +16,4 @@ A clean, asynchronous-ready Python tool that fetches real-time weather data for 
 ## 📦 Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/aliidn/weather-notifier.git](https://github.com/aliidn/weather-notifier.git)
+   git clone https://github.com/aliidn/weather-notifier.git
